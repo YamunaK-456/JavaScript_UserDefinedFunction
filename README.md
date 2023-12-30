@@ -1,1 +1,5 @@
-# JavaScript_UserDefinedFunction
+# JavaScript UserDefined Functions
+## map()
+## reduce()
+## filter()
+## forEach()
